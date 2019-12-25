@@ -1,4 +1,0 @@
-#Tue Dec 24 15:32:24 CET 2019
-base.0=/Users/dejanpetkovic/AR-Hellow-World/Temp/gradleOut/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
